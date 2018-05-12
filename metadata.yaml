@@ -1,0 +1,35 @@
+_repo: The-Scarlet-Banner_32461
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Safford, Mary J.
+    alias: Safford, Mary Joanna
+    gutenberg_agent_id: '1802'
+    url: http://www.gutenberg.org/2009/agents/1802
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dahn, Felix
+    birthdate: 1834
+    deathdate: 1912
+    gutenberg_agent_id: '31889'
+    url: http://www.gutenberg.org/2009/agents/31889
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Dahn
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32461'
+  lccn: 03028841
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vandals -- Fiction'
+- !lcsh 'Africa, North -- History -- 647-1517 -- Fiction'
+- !lcc 'PT'
+title: The Scarlet Banner
+url: http://www.gutenberg.org/ebooks/32461
